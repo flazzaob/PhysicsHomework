@@ -1,3 +1,4 @@
 npm install -g ijavascript
 npm install -g mathjs
+npm install plotly.js-dist
 ijsinstall
